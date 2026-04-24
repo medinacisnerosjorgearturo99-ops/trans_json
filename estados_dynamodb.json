@@ -1,0 +1,290 @@
+[
+    {
+        "Estado": "Aguascalientes",
+        "Temperatura": 24.0,
+        "Humedad": 45.0,
+        "Costo_Alojamiento": 900.0,
+        "Costo_Transporte": 500.0,
+        "Dias_Promedio": 3,
+        "Tiempo_Traslado": 4.0
+    },
+    {
+        "Estado": "Baja California",
+        "Temperatura": 28.0,
+        "Humedad": 40.0,
+        "Costo_Alojamiento": 1200.0,
+        "Costo_Transporte": 1500.0,
+        "Dias_Promedio": 5,
+        "Tiempo_Traslado": 24.0
+    },
+    {
+        "Estado": "Baja California Sur",
+        "Temperatura": 30.0,
+        "Humedad": 50.0,
+        "Costo_Alojamiento": 1800.0,
+        "Costo_Transporte": 2000.0,
+        "Dias_Promedio": 5,
+        "Tiempo_Traslado": 28.0
+    },
+    {
+        "Estado": "Campeche",
+        "Temperatura": 29.0,
+        "Humedad": 70.0,
+        "Costo_Alojamiento": 1100.0,
+        "Costo_Transporte": 1300.0,
+        "Dias_Promedio": 4,
+        "Tiempo_Traslado": 12.0
+    },
+    {
+        "Estado": "Chiapas",
+        "Temperatura": 26.0,
+        "Humedad": 80.0,
+        "Costo_Alojamiento": 800.0,
+        "Costo_Transporte": 1200.0,
+        "Dias_Promedio": 5,
+        "Tiempo_Traslado": 14.0
+    },
+    {
+        "Estado": "Chihuahua",
+        "Temperatura": 22.0,
+        "Humedad": 35.0,
+        "Costo_Alojamiento": 950.0,
+        "Costo_Transporte": 1400.0,
+        "Dias_Promedio": 4,
+        "Tiempo_Traslado": 10.0
+    },
+    {
+        "Estado": "Ciudad de Mexico",
+        "Temperatura": 20.0,
+        "Humedad": 60.0,
+        "Costo_Alojamiento": 1300.0,
+        "Costo_Transporte": 300.0,
+        "Dias_Promedio": 3,
+        "Tiempo_Traslado": 1.0
+    },
+    {
+        "Estado": "Coahuila",
+        "Temperatura": 27.0,
+        "Humedad": 30.0,
+        "Costo_Alojamiento": 900.0,
+        "Costo_Transporte": 1200.0,
+        "Dias_Promedio": 4,
+        "Tiempo_Traslado": 9.0
+    },
+    {
+        "Estado": "Colima",
+        "Temperatura": 28.0,
+        "Humedad": 65.0,
+        "Costo_Alojamiento": 1400.0,
+        "Costo_Transporte": 1000.0,
+        "Dias_Promedio": 4,
+        "Tiempo_Traslado": 6.0
+    },
+    {
+        "Estado": "Durango",
+        "Temperatura": 23.0,
+        "Humedad": 40.0,
+        "Costo_Alojamiento": 850.0,
+        "Costo_Transporte": 1100.0,
+        "Dias_Promedio": 4,
+        "Tiempo_Traslado": 8.0
+    },
+    {
+        "Estado": "Estado de Mexico",
+        "Temperatura": 19.0,
+        "Humedad": 55.0,
+        "Costo_Alojamiento": 1000.0,
+        "Costo_Transporte": 200.0,
+        "Dias_Promedio": 3,
+        "Tiempo_Traslado": 1.0
+    },
+    {
+        "Estado": "Guanajuato",
+        "Temperatura": 24.0,
+        "Humedad": 50.0,
+        "Costo_Alojamiento": 950.0,
+        "Costo_Transporte": 400.0,
+        "Dias_Promedio": 3,
+        "Tiempo_Traslado": 3.0
+    },
+    {
+        "Estado": "Guerrero",
+        "Temperatura": 30.0,
+        "Humedad": 75.0,
+        "Costo_Alojamiento": 1500.0,
+        "Costo_Transporte": 900.0,
+        "Dias_Promedio": 5,
+        "Tiempo_Traslado": 6.0
+    },
+    {
+        "Estado": "Hidalgo",
+        "Temperatura": 21.0,
+        "Humedad": 60.0,
+        "Costo_Alojamiento": 850.0,
+        "Costo_Transporte": 300.0,
+        "Dias_Promedio": 3,
+        "Tiempo_Traslado": 2.0
+    },
+    {
+        "Estado": "Jalisco",
+        "Temperatura": 26.0,
+        "Humedad": 55.0,
+        "Costo_Alojamiento": 1200.0,
+        "Costo_Transporte": 700.0,
+        "Dias_Promedio": 4,
+        "Tiempo_Traslado": 5.0
+    },
+    {
+        "Estado": "Michoacan",
+        "Temperatura": 25.0,
+        "Humedad": 65.0,
+        "Costo_Alojamiento": 900.0,
+        "Costo_Transporte": 600.0,
+        "Dias_Promedio": 4,
+        "Tiempo_Traslado": 4.0
+    },
+    {
+        "Estado": "Morelos",
+        "Temperatura": 27.0,
+        "Humedad": 70.0,
+        "Costo_Alojamiento": 1100.0,
+        "Costo_Transporte": 300.0,
+        "Dias_Promedio": 3,
+        "Tiempo_Traslado": 2.0
+    },
+    {
+        "Estado": "Nayarit",
+        "Temperatura": 29.0,
+        "Humedad": 75.0,
+        "Costo_Alojamiento": 1400.0,
+        "Costo_Transporte": 1200.0,
+        "Dias_Promedio": 5,
+        "Tiempo_Traslado": 7.0
+    },
+    {
+        "Estado": "Nuevo Leon",
+        "Temperatura": 28.0,
+        "Humedad": 45.0,
+        "Costo_Alojamiento": 1300.0,
+        "Costo_Transporte": 800.0,
+        "Dias_Promedio": 4,
+        "Tiempo_Traslado": 6.0
+    },
+    {
+        "Estado": "Oaxaca",
+        "Temperatura": 27.0,
+        "Humedad": 70.0,
+        "Costo_Alojamiento": 900.0,
+        "Costo_Transporte": 900.0,
+        "Dias_Promedio": 5,
+        "Tiempo_Traslado": 8.0
+    },
+    {
+        "Estado": "Puebla",
+        "Temperatura": 22.0,
+        "Humedad": 65.0,
+        "Costo_Alojamiento": 1000.0,
+        "Costo_Transporte": 400.0,
+        "Dias_Promedio": 4,
+        "Tiempo_Traslado": 3.0
+    },
+    {
+        "Estado": "Queretaro",
+        "Temperatura": 23.0,
+        "Humedad": 50.0,
+        "Costo_Alojamiento": 1100.0,
+        "Costo_Transporte": 400.0,
+        "Dias_Promedio": 3,
+        "Tiempo_Traslado": 3.0
+    },
+    {
+        "Estado": "Quintana Roo",
+        "Temperatura": 31.0,
+        "Humedad": 80.0,
+        "Costo_Alojamiento": 2000.0,
+        "Costo_Transporte": 1800.0,
+        "Dias_Promedio": 6,
+        "Tiempo_Traslado": 20.0
+    },
+    {
+        "Estado": "San Luis Potosi",
+        "Temperatura": 24.0,
+        "Humedad": 50.0,
+        "Costo_Alojamiento": 900.0,
+        "Costo_Transporte": 700.0,
+        "Dias_Promedio": 4,
+        "Tiempo_Traslado": 5.0
+    },
+    {
+        "Estado": "Sinaloa",
+        "Temperatura": 30.0,
+        "Humedad": 65.0,
+        "Costo_Alojamiento": 1200.0,
+        "Costo_Transporte": 1300.0,
+        "Dias_Promedio": 5,
+        "Tiempo_Traslado": 10.0
+    },
+    {
+        "Estado": "Sonora",
+        "Temperatura": 32.0,
+        "Humedad": 30.0,
+        "Costo_Alojamiento": 1100.0,
+        "Costo_Transporte": 1500.0,
+        "Dias_Promedio": 5,
+        "Tiempo_Traslado": 18.0
+    },
+    {
+        "Estado": "Tabasco",
+        "Temperatura": 29.0,
+        "Humedad": 85.0,
+        "Costo_Alojamiento": 900.0,
+        "Costo_Transporte": 1000.0,
+        "Dias_Promedio": 4,
+        "Tiempo_Traslado": 12.0
+    },
+    {
+        "Estado": "Tamaulipas",
+        "Temperatura": 28.0,
+        "Humedad": 60.0,
+        "Costo_Alojamiento": 1000.0,
+        "Costo_Transporte": 900.0,
+        "Dias_Promedio": 4,
+        "Tiempo_Traslado": 9.0
+    },
+    {
+        "Estado": "Tlaxcala",
+        "Temperatura": 21.0,
+        "Humedad": 60.0,
+        "Costo_Alojamiento": 800.0,
+        "Costo_Transporte": 300.0,
+        "Dias_Promedio": 3,
+        "Tiempo_Traslado": 2.0
+    },
+    {
+        "Estado": "Veracruz",
+        "Temperatura": 28.0,
+        "Humedad": 80.0,
+        "Costo_Alojamiento": 1100.0,
+        "Costo_Transporte": 700.0,
+        "Dias_Promedio": 5,
+        "Tiempo_Traslado": 6.0
+    },
+    {
+        "Estado": "Yucatan",
+        "Temperatura": 30.0,
+        "Humedad": 75.0,
+        "Costo_Alojamiento": 1300.0,
+        "Costo_Transporte": 1500.0,
+        "Dias_Promedio": 5,
+        "Tiempo_Traslado": 16.0
+    },
+    {
+        "Estado": "Zacatecas",
+        "Temperatura": 22.0,
+        "Humedad": 40.0,
+        "Costo_Alojamiento": 850.0,
+        "Costo_Transporte": 800.0,
+        "Dias_Promedio": 4,
+        "Tiempo_Traslado": 6.0
+    }
+]
