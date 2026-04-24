@@ -5,7 +5,7 @@ phases:
     commands:
       - echo "Iniciando la subida de archivos a S3..."
       # Reemplaza 'nombre-de-tu-bucket' con el nombre real de tu bucket en S3
-      - aws s3 cp archivo.py s3://nombre-de-tu-bucket/
+      - aws s3 cp transcriptor.py s3://nombre-de-tu-bucket/
       - aws s3 cp Estados.txt s3://nombre-de-tu-bucket/
       
       # (Opcional) Si en el futuro quieres subir toda la carpeta de golpe, usarías esto en su lugar:
