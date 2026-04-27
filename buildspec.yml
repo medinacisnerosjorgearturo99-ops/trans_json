@@ -3,14 +3,9 @@ version: 0.2
 phases:
   build:
     commands:
-      - echo "Iniciando la subida de archivos a S3..."
-      # Reemplaza 'nombre-de-tu-bucket' con el nombre real de tu bucket en S3
-      - aws s3 cp transcriptor.py s3://transformador/
-      - aws s3 cp Estados.txt s3://transformador/
-      
-      # (Opcional) Si en el futuro quieres subir toda la carpeta de golpe, usarías esto en su lugar:
-      # - aws s3 sync . s3://nombre-de-tu-bucket/ --exclude ".git/*" --exclude "buildspec.yml"
+      - echo "Preparando archivos para que CodePipeline los suba..."
 
-  post_build:
-    commands:
-      - echo "¡Archivos subidos a S3 con éxito!"
+artifacts:
+  files:
+    - transcriptor.py
+    - Estados.txt
